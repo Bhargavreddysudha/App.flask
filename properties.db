@@ -1,0 +1,5 @@
+[database]
+user=admin
+password=12345678
+host=python.cuznb2sksndl.eu-west-3.rds.amazonaws.com
+database=pythonapp
